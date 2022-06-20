@@ -1,0 +1,20 @@
+body {
+  background-color: #F5E1FD;
+  
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculadora {
+  background-color: #DEB3EB;
+  width: 400px;
+  border-radius: 16px;
+}
+ 
+.fila{
+  display: flex;
+}
