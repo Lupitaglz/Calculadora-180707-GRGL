@@ -11,3 +11,4 @@ const Boton = ({ symbol, color, hacerClick }) => {
 };
 
 export default Boton;
+ 
